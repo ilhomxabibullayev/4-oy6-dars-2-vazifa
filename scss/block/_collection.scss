@@ -5,6 +5,7 @@
         display: flex;
         align-items: center;
         justify-content: space-around;
+        margin-bottom: 30px;
     }
 
     .collectoin__cart {
@@ -12,8 +13,8 @@
         height: 469px;
         gap: 0px;
         border-radius: 20px 20px 20px 20px;
-        opacity: 0px;
         background: #2B2B2B;
+
     }
 
     .collectoin__image {
@@ -32,11 +33,13 @@
         text-align: left;
         color: #FFFFFF;
         margin-bottom: 10px;
+        margin-left: 50px;
     }
 
     .collectoin__block {
         display: flex;
         align-items: center;
+        margin-left: 50px;
         gap: 5px;
         margin-bottom: 15px;
     }
@@ -53,7 +56,7 @@
     .collectoin__box {
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-around;
         margin-top: 5px;
     }
 
