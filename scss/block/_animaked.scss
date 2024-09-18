@@ -1,0 +1,186 @@
+.animaked {
+    padding: 100px 0;
+
+    .animaked__content {
+        display: flex;
+        align-items: center;
+        gap: 450px;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+
+    .animaked__title {
+        font-family: Work Sans;
+        font-size: 51px;
+        font-weight: 600;
+        line-height: 56.1px;
+        text-align: left;
+        color: #FFFFFF;
+    }
+
+    .animaked__button {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .animaked__btn {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        width: Fixed (186px)px;
+        height: Fixed (60px)px;
+        padding: 15px 50px 15px 50px;
+        gap: 12px;
+        border-radius: 20px 20px 20px 20px;
+        opacity: 0px;
+        background: #A259FF;
+        font-family: Work Sans;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 22.4px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .animaked__btn2 {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        width: Hug (145px)px;
+        height: Fixed (60px)px;
+        padding: 13px 30px 13px 30px;
+        border-radius: 20px 20px 20px 20px;
+        border: 2px 2px 2px 2px;
+        opacity: 0px;
+        border: 2px solid #A259FF;
+        background: #2B2B2B;
+        font-family: Work Sans;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 22.4px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .animaked__blocks {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+
+    .animaked__number {
+        font-family: Space Mono;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 39.2px;
+        text-align: left;
+        color: #FFFFFF;
+    }
+
+    .animaked__name {
+        font-family: Work Sans;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 35.2px;
+        text-align: left;
+        color: #FFFFFF;
+    }
+
+    .animaked__names {
+        font-family: Space Mono;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: left;
+        color: #858584;
+        margin-left: 50px;
+    }
+
+    .animaked__text {
+        font-family: Work Sans;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 35.2px;
+        text-align: left;
+        color: #FFFFFF;
+        margin-left: 50px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .animaked__img {
+        margin-left: 50px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .animaked__span {
+        display: block;
+        width: 1280px;
+        height: 0px;
+        gap: 0px;
+        border: 1px 1px 1px 1px;
+        opacity: 0px;
+        border: 1px solid #3B3B3B;
+        margin-bottom: 30px;
+    }
+
+    .animaked__sub-title {
+        font-family: Work Sans;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 30.8px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .animaked__boxs {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-bottom: 15px;
+    }
+
+    .animaked__box {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-left: 50px;
+    }
+
+    .animaked__btn3 {
+        width: 50px;
+        height: 32px;
+        padding: 5px 10px 5px 10px;
+        gap: 10px;
+        border-radius: 20px 20px 20px 20px;
+        opacity: 0px;
+        background: #3B3B3B;
+        font-family: Space Mono;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .animaked__btn3:hover {
+        background: #858584;
+    }
+    .animaked__boxs2 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .animaked__span2 {
+        display: block;
+        width: 350px;
+        border: 0px 0px 2px 0px;
+        opacity: 0px;
+        border-bottom: 2px solid #858584;
+    }
+}
